@@ -23,10 +23,8 @@ Clone the repository. using https://github.com/ASUSTHENOOB/Firebase_auth_GetX
 .  Add your Firebase configuration files.
 .  Run the app and enjoy the simplicity of GetX combined with Firebase authentication.
 # ScreenShots:
-![Screenshot_1725866159](https://github.com/user-attachments/assets/958cccd6-de62-4113-873b-b63edf3ed50d)
-![Screenshot_1725866126](https://github.com/user-attachments/assets/51fb6843-5858-4670-ad78-f6c3390d8ed8)
-![Screenshot_1725866123](https://github.com/user-attachments/assets/250c9bd4-094a-42d8-b19c-2a44742e7fd7)
-![Screenshot_1725866182](https://github.com/user-attachments/assets/19a6b046-b90c-4fcf-a1e3-f47b58de546f)
+![Screenshot_1725866123](https://github.com/user-attachments/assets/7ede6b47-846b-4ab8-8037-afe75ae12135)
+
 
 
 
