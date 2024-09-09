@@ -25,8 +25,9 @@ Clone the repository. using https://github.com/ASUSTHENOOB/Firebase_auth_GetX
 # ScreenShots:
 ![Screenshot_1725866123](https://github.com/user-attachments/assets/7ede6b47-846b-4ab8-8037-afe75ae12135)
 
+![Screenshot_1725866159](https://github.com/user-attachments/assets/1c0b10a1-af05-4be5-bb80-aa06b86a4b45)
 
+![Screenshot_1725866182](https://github.com/user-attachments/assets/0b877fbd-4905-4372-8d17-36d62b77edce)
 
-
-
+![Screenshot_1725866184](https://github.com/user-attachments/assets/789d305e-344b-42b8-aa1e-30b25799a48e)
 
