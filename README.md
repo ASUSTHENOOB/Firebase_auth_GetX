@@ -1,11 +1,11 @@
 # 🔑 Firebase Authentication App with GetX
 Welcome to the Firebase Authentication App built with Flutter. This app focuses on providing a simple yet powerful authentication system, using Firebase for signup and login, and GetX for efficient state management.
 
-#🌟 Features
+# 🌟 Features
 Signup & Login: Users can create accounts and log in with their email and password, backed by Firebase's secure authentication.
 GetX State Management: Efficient state management with GetX ensures smooth and responsive UI updates.
 Minimal UI: A clean and focused user interface, providing a seamless user experience.
-#📦 Required Packages
+# 📦 Required Packages
 Ensure that the following packages are included in your project for Firebase authentication and GetX state management:
 
 ## Add these to yaml:
@@ -17,7 +17,7 @@ dependencies:
   get: latest_version
 Update latest_version with the most current versions of these packages.
 
-#🚀 Getting Started
+# 🚀 Getting Started
 Clone the repository. using https://github.com/ASUSTHENOOB/Firebase_auth_GetX
 . Set up Firebase in your Flutter project.
 .  Add your Firebase configuration files.
