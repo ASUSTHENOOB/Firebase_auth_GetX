@@ -9,12 +9,12 @@ Minimal UI: A clean and focused user interface, providing a seamless user experi
 Ensure that the following packages are included in your project for Firebase authentication and GetX state management:
 
 ## Add these to yaml:
-dependencies:
-  flutter:
-  sdk: flutter
-  firebase_core: latest_version
-  firebase_auth: latest_version
-  get: latest_version
+-- dependencies:
+ -- flutter:
+ -- sdk: flutter
+ -- firebase_core: latest_version
+ -- firebase_auth: latest_version
+ -- get: latest_version
 Update latest_version with the most current versions of these packages.
 
 # 🚀 Getting Started
